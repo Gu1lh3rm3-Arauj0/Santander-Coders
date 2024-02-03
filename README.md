@@ -1,1 +1,1 @@
-Repositório dedicado ao curso de Data Science da ADA tech 
+- Repositório dedicado ao curso de Data Science da ADA tech 
